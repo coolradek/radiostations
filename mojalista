@@ -1,5 +1,6 @@
 [
   {"name": "RMF FM", "url": "http://195.150.20.7/rmf_fm"},
+  {"name": "Metal Rock Radio", "url": "http://144.217.77.176:8000/listen.pls?sid=1"},
   {"name": "Life TRANCE FM", "url": "http://cast1.asurahosting.com:7709/stream"},
   {"name": "Trance", "url": "http://uk4.internet-radio.com:8049/"},
   {"name": "Italo 4 You", "url": "http://s0.radiohost.pl:8018/stream"},
